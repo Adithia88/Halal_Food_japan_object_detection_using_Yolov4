@@ -84,10 +84,22 @@ change the names of class ( in this case my classes are galbo,kitkat and snicker
 
 when the training start u can see like this just wait until done and model will be save in yolov4/backup
 
+# Step to test with your own data videos or images
 
+## 1. open YOLOv_detect_Video_and_images.ipynb 
+This example will explain which part u must change to test your own data
 
+* YOLOv_detect_Video_and_images.ipynb
 
+just make sure u upload your testing video and image to folder in google drive
 
+![Test Model](assets/Testing_video.PNG)
+
+![Test Model](assets/Testing_poto.PNG)
+
+the part u must change just the filename of data what u want to test and the u can see the result below
+
+![Test Model](assets/last.jpg)
 
 
 
