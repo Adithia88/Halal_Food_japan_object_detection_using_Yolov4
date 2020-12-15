@@ -4,7 +4,7 @@
 
 This is an implementation of Yolov4 on Python 3 using darknet. The model generates bounding boxes and classify each object in the image.
 
-![Object Detection Sample](assets/result.PNG)
+![Put file like this](assets/result.PNG)
 
 The repository includes:
 * convert xml to txt (yolo format)
@@ -21,7 +21,7 @@ The repository includes:
    
  Then put it in google drive like this
 
-![Put file like this](assets/1st page.png)
+![Put file like this](assets/1st_page.png)
 
 
 # Getting Started
