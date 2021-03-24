@@ -17,8 +17,6 @@ The repository includes:
 1. Clone this repository
 
 2. download Yolov4  : https://drive.google.com/drive/folders/1ceyk9dVenWVFhxqPYmdZVFInHWgaEqMz?usp=sharing
-
-   download darknet : https://drive.google.com/file/d/1tgKE-0w4weZB1cnB1s2SPfJqtieyuMV0/view?usp=sharing
    
  Then put it in google drive like this
 
